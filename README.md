@@ -10,27 +10,6 @@ This small project demonstrates Random Forest Regression on the `Position_Salari
   - per-tree variability + ±1 std dev uncertainty band (advanced)
 - `requirements.txt` — Python dependencies for quick setup
 
-## Quick setup (Windows / PowerShell)
-
-1. Create and activate a virtual environment (recommended):
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-```
-
-2. Install dependencies:
-
-```powershell
-pip install -r "d:\AI\Machine Learning A-Z™ - AI, Python & R + ChatGPT Bonus [2023]u200b\Machine Learning A-Z™\Random Forest Regression\requirements.txt"
-```
-
-3. Start Jupyter and open the notebook:
-
-```powershell
-jupyter notebook "d:\AI\Machine Learning A-Z™ - AI, Python & R + ChatGPT Bonus [2023]u200b\Machine Learning A-Z™\Random Forest Regression\random_forest_regression.ipynb"
-```
-
 ## What the notebook shows
 
 - Training a RandomForestRegressor on the full dataset.
