@@ -29,5 +29,3 @@ This small project demonstrates Random Forest Regression on the `Position_Salari
 - Compute empirical prediction intervals (e.g., 2.5% / 97.5% percentiles) from `all_preds` and display them in the notebook.
 
 ---
-
-If you'd like, I can convert the advanced static plot to an interactive Plotly figure and add that cell to the notebook, or run the notebook and confirm there are no runtime warnings/errors.
